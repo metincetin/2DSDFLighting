@@ -1,0 +1,3 @@
+[submodule "Libraries/dreamengine"]
+	path = Libraries/dreamengine
+	url = https://github.com/metincetin/dreamengine
