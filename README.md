@@ -1,6 +1,10 @@
 # 2D SDF Lighting
 
+
+![image](https://github.com/metincetin/2d-sdf-lighting/assets/29512718/420ea0c7-374b-41d2-a833-972d58c623f4)
+
 Demo project that implements raymarching for 2D lighting and shadows, made in [dream engine](https://github.com/metincetin/dreamengine)
+
 
 Play the build [here](https://metincetin.xyz/work/2d-sdf-lighting)
 
